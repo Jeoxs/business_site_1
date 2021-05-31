@@ -1,0 +1,24 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+    padding-top: 3.5rem;
+    padding-bottom: 0;
+    margin-bottom: -20;
+  }
+  
+  span.circle {
+    background: rgb(187, 10, 49);
+     border-radius: 0.8em;
+    -moz-border-radius: 0.8em;
+    -webkit-border-radius: 0.8em;
+    color: #ffffff;
+    display: inline-block;
+    font-weight: bold;
+    line-height: 1.6em;
+    margin-right: 15px;
+    text-align: center;
+    width: 1.6em; 
+  }
+
+  nav.navbar {
+    background-color: rgb(187, 10, 49) !important;
+  }

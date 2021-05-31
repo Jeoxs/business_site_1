@@ -1,0 +1,6 @@
+{
+    "require": {
+        "components/jquery": "^3.5",
+        "components/font-awesome": "^5.15"
+    }
+}

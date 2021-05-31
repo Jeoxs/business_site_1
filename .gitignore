@@ -1,0 +1,4 @@
+.vscode
+composer.lock
+vendor/composer
+vendor/autoload.php
